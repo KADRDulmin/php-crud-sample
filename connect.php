@@ -1,5 +1,5 @@
 <?php
-$dbName = "blist";
+$dbName = "crud";
 $dbHost = "localhost";
 $dbUser = "root";
 $dbPass = "";
